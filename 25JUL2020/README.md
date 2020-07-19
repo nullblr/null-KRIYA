@@ -14,7 +14,7 @@
 3. As a **microservice** developer, create a microservice that will analyse all user inputs and generate a frequency table of unique keywords, so that this table could assist in decision making by suggesting technologies that maximum people are interested in.
 4. As a **Terraform** expert, create the underlying environment for deploying the microservices.
 
-![Integrated overview](image/2020-07-19_17-52_dfd.png)
+![Integrated overview](image/overview.png)
 
 ## Method of Collaboration
 
@@ -36,9 +36,10 @@ As part of this event, we aim to improve our understanding of following:
 
 ## References
 
-1. [Terraform Hands On Lab](https://github.com/Derek-Ashmore/terraform-hands-on-lab)
-2. [Sample microservice](https://github.com/Derek-Ashmore/moneta)
-3. [Managing Microservices Using Terraform, Docker, and the Cloud](https://www.agileconnection.com/sites/default/files/presentation/file/2019/DW2%20-%20Ashmore.pdf)
-4. [https://flutter.dev/](https://flutter.dev/)
-5. [https://microservices.io/](https://microservices.io/)
-6. [https://www.terraform.io/](https://www.terraform.io/)
+1. [https://flutter.dev/](https://flutter.dev/)
+2. [https://microservices.io/](https://microservices.io/)
+3. [https://www.terraform.io/](https://www.terraform.io/)
+4. [Learn to provision infrastructure with HashiCorp Terraform](https://learn.hashicorp.com/terraform?track=getting-started#getting-started)
+5. [Terraform Hands On Lab](https://github.com/Derek-Ashmore/terraform-hands-on-lab)
+6. [Sample microservice](https://github.com/Derek-Ashmore/moneta)
+7. [Managing Microservices Using Terraform, Docker, and the Cloud](https://www.agileconnection.com/sites/default/files/presentation/file/2019/DW2%20-%20Ashmore.pdf)
