@@ -14,6 +14,8 @@
 3. As a **microservice** developer, create a microservice that will analyse all user inputs and generate a frequency table of unique keywords, so that this table could assist in decision making by suggesting technologies that maximum people are interested in.
 4. As a **Terraform** expert, create the underlying environment for deploying the microservices.
 
+![Integrated overview](image/2020-07-19_17-52_dfd.png)
+
 ## Method of Collaboration
 
 1. [Communicate on Discord](https://discord.gg/CAm9Wz)
