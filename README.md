@@ -2,7 +2,7 @@
 
 <p>The Hacker Spirit is about learning and teaching. Learn new things and meet new friends, as we build something together, using the latest technologies.</p>
 
->> Build something, before you break it.
+> Build something, before you break it.
 
 ## Goal
 
