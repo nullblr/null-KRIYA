@@ -18,6 +18,9 @@
 
 1. [Communicate on Discord](https://discord.gg/CAm9Wz)
 2. [Fork-and-merge on Github](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+   1. [Flutter Submodule](https://github.com/nullblr/flutter.git)
+   2. [Microservice Submodule](https://github.com/nullblr/microservice.git)
+   3. [Terraform Submodule](https://github.com/nullblr/terraform.git)
 
 ## End Result
 
