@@ -34,3 +34,6 @@ The goal is to attempt solving the problem statements to the best of your abilit
 1. [Terraform Hands On Lab](https://github.com/Derek-Ashmore/terraform-hands-on-lab)
 2. [Sample microservice](https://github.com/Derek-Ashmore/moneta)
 3. [Managing Microservices Using Terraform, Docker, and the Cloud](https://www.agileconnection.com/sites/default/files/presentation/file/2019/DW2%20-%20Ashmore.pdf)
+4. [https://flutter.dev/](https://flutter.dev/)
+5. [https://microservices.io/](https://microservices.io/)
+6. [https://www.terraform.io/](https://www.terraform.io/)
