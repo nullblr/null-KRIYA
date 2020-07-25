@@ -24,6 +24,15 @@
    2. [Microservice Submodule](https://github.com/nullblr/microservice.git)
    3. [Terraform Submodule](https://github.com/nullblr/terraform.git)
 
+## Instruction
+
+1. Everyone creates one README.md file
+2. `.md` extension refers to a [Markdown](https://www.markdownguide.org/basic-syntax/) file
+3. Mention the main steps that you followed
+4. Create your own [GitHub branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) and commit all changes
+5. Use [#null-kriya channel on Discord](https://discord.com/invite/VS6zEs) to collaborate with other community members
+6. Three [breakout rooms](https://support.zoom.us/hc/en-us/articles/115005769646-Participating-in-breakout-rooms) are available in Zoom meeting. You will have to login to Zoom from your computer (not mobile) to be able to use the breakout room feature. 
+
 ## End Result
 
 The goal is to attempt solving the problem statements to the best of your abilities, leading to practical learning of new technologies, improved communication and collaboration skills. 
