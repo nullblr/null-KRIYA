@@ -1,9 +1,9 @@
 [submodule "flutter"]
 	path = flutter
 	url = https://github.com/nullblr/flutter.git
-[submodule "microservice"]
-	path = microservice
-	url = https://github.com/nullblr/microservice.git
 [submodule "terraform"]
 	path = terraform
 	url = https://github.com/nullblr/terraform.git
+[submodule "microservice"]
+	path = microservice
+	url = https://github.com/nullblr/microservice.git
