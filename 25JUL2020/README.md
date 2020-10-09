@@ -33,7 +33,7 @@
 5. Use [#null-kriya channel on Discord](https://discord.com/invite/VS6zEs) to collaborate with other community members
 6. Three [breakout rooms](https://support.zoom.us/hc/en-us/articles/115005769646-Participating-in-breakout-rooms) are available in Zoom meeting. You will have to login to Zoom from your computer (not mobile) to be able to use the breakout room feature. 
 
-## End Result
+## The Goal
 
 The goal is to attempt solving the problem statements to the best of your abilities, leading to practical learning of new technologies, improved communication and collaboration skills. 
 
@@ -42,6 +42,12 @@ As part of this event, we aim to improve our understanding of following:
 1. Flutter
 2. Microservices
 3. Terraform
+
+## Event Output
+
+* [Refer Flutter Submodule](flutter/README.md)
+* [Refer Microservices Submodule](microservice/README.md)
+* [Refer Terraform Submodule](terraform/README.md)
 
 ## References
 
