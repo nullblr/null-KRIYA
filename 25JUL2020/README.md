@@ -45,9 +45,9 @@ As part of this event, we aim to improve our understanding of following:
 
 ## Event Output
 
-* [Refer Flutter Submodule](flutter/README.md)
-* [Refer Microservices Submodule](microservice/README.md)
-* [Refer Terraform Submodule](terraform/README.md)
+* [Refer Flutter Submodule](https://github.com/nullblr/flutter.git)
+* [Refer Microservices Submodule](https://github.com/nullblr/microservice.git)
+* [Refer Terraform Submodule](https://github.com/nullblr/terraform.git)
 
 ## References
 
